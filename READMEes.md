@@ -18,7 +18,7 @@ _Lista de los comandos de Git más utilizados_
 
 | Comando | Descripción |
 | ------- | ----------- |
-| `git init` | Inicializa un repositorio local de Git |
+| `git init` | Inicializa un repositorio local de Git ok |
 | `git clone ssh://git@github.com/[nombreDeUsuario]/[nombre-del-repo].git` | Crea una copia local de un repositorio remoto |
 
 ### Comandos básicos
